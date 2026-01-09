@@ -6,6 +6,8 @@ This repository contains an experimental pipeline for **classifying user activit
 The workflow benchmarks **six machine learning models** both:
 1) **before** feature selection (using the full feature set), and  
 2) **after** feature selection (using optimized feature subsets).
+   
+<img width="3840" height="2160" alt="Methodological Framework" src="https://github.com/user-attachments/assets/41caeed0-9bb1-48d4-9e10-1db4a7c3fd0a" />
 
 ## What’s inside
 ### Machine learning models evaluated
